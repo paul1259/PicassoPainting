@@ -1,0 +1,29 @@
+header {    
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-size: 3vh;
+    border: 2px solid black;
+    padding: 40px;
+    background-color: chocolate;
+}
+main {;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.pb {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 1vh;
+}
+.center {   
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2 {
+    text-align: center;
+}
+a:link{text-decoration: none;}
